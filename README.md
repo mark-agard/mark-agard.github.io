@@ -1,3 +1,3 @@
 # mark-agard.github.io
 
-test2 [[page2]]
+test2 [page2]
